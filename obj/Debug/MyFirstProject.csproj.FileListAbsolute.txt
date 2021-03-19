@@ -1,0 +1,10 @@
+C:\Users\tyler\Source\Repos\Visual-Progamming-1\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\tyler\Source\Repos\Visual-Progamming-1\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\tyler\Source\Repos\Visual-Progamming-1\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\Users\tyler\Source\Repos\Visual-Progamming-1\MyFirstProject\obj\Debug\MyFirstProject.csprojAssemblyReference.cache
+C:\Users\tyler\Source\Repos\Visual-Progamming-1\MyFirstProject\obj\Debug\MyFirstProject.Form1.resources
+C:\Users\tyler\Source\Repos\Visual-Progamming-1\MyFirstProject\obj\Debug\MyFirstProject.Properties.Resources.resources
+C:\Users\tyler\Source\Repos\Visual-Progamming-1\MyFirstProject\obj\Debug\MyFirstProject.csproj.GenerateResource.cache
+C:\Users\tyler\Source\Repos\Visual-Progamming-1\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Source\Repos\Visual-Progamming-1\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\tyler\Source\Repos\Visual-Progamming-1\MyFirstProject\obj\Debug\MyFirstProject.pdb
